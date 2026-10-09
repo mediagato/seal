@@ -42,7 +42,7 @@ Needs you: docs/guide.md still says exports are Excel-only; I could not tell if 
 
 Copy `skills/seal` into `~/.claude/skills/` (or a project's `.claude/skills/`). A plugin manifest is included in `.claude-plugin/plugin.json`.
 
-Installed as a plugin the skill is namespaced, for example `/seal:seal`; copied into `skills/` it is `/seal`. Claude also picks it up from the description, so you do not need to type the command. Ask Claude to "seal it", "lock it in", or "ship it" once a piece of work is done.
+Installed as a plugin (it is named `mediagato-seal` in the directory, since `seal` alone is easily mistaken for other listings) the skill is namespaced, `/mediagato-seal:seal`; copied into `skills/` it is `/seal`. Claude also picks it up from the description, so you do not need to type the command. Ask Claude to "seal it", "lock it in", or "ship it" once a piece of work is done.
 
 ## Status
 

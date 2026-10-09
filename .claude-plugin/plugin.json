@@ -1,6 +1,6 @@
 {
-  "name": "seal",
-  "version": "0.1.0",
+  "name": "mediagato-seal",
+  "version": "0.1.1",
   "description": "Finish one change properly: audit the docs, document it, bump the version everywhere, require a regression test, commit everything, push when asked.",
   "author": {
     "name": "MEDiAGATO",
